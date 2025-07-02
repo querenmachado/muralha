@@ -1,0 +1,13 @@
+.banner{
+    width: 100%;
+    height: 650%;
+    background: url(../img/muralha1.webp);
+    background-size: 100%;
+    background-position-x: center;
+    background: no-repeat;
+}
+
+.margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
